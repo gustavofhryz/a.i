@@ -1,0 +1,25 @@
+I.A Geração de Imagens
+
+Bing Image Creator
+Leonardo AI
+Midjourney
+
+trabalham em função de um prompt que fornece a informação para o modelo de I.A gerar a imagem ;
+
+I.A Voz e Avatares Virtuais
+
+ElevenLabs
+D-ID
+HeyGen
+
+Reconhecimento de fala:
+
+Speech to text - fala convertida em texto
+Text to speech - texto convertido em fala
+
+Acessibilidade / Personalização / Facilidade de Uso
+ex: pessoas com deficiências auditivas 
+podem se beneficiar de legendas / transcrições
+(atender necessidades de cada um)
+
+Avatares virtuais de linguas de sinais baseados em textos

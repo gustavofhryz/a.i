@@ -1,0 +1,15 @@
+[actions]
+
+create a script to create a table in MySQL
+
+[contexts] 
+
+the first table is a table to save the image 
+
+[informations]
+
+name
+characteristics
+all infos
+
+etc

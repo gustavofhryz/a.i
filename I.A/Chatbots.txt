@@ -1,0 +1,8 @@
+Chatbots
+
+ferramentas utilizadas para conversar com a 
+inteligência artificial usando linguagem natural.
+Interações naturais entre pessoas e dispositivos.
+
+Siri (Apple) 
+Alexa ( Amazon ) 

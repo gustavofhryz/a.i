@@ -1,0 +1,32 @@
+1. Inteligência Artificial (I.A.)
+
+A I.A. é o campo da ciência da computação voltado para a criação de sistemas capazes de simular a inteligência humana.
+O ciclo moderno de desenvolvimento de uma I.A. baseia-se em três pilares:
+
+• Treinamento: É a fase de aprendizado. O sistema consome um volume massivo de dados (textos, imagens ou números) 
+para identificar padrões e correlações através de modelos matemáticos (redes neurais).
+
+• Geração: É a fase em que o modelo aplica o que aprendeu. 
+A partir de um comando (prompt), a I.A. cria um conteúdo inédito (como um texto, um código ou um design) cruzando os padrões assimilados no treinamento.
+
+• Refinamento: É o processo de ajuste fino (fine-tuning) e correção de erros.
+Envolve o feedback humano e novas rodadas de teste para que as respostas se tornem mais precisas, éticas, seguras e alinhadas ao objetivo final.
+
+2. Algoritmos
+
+• Definição: É o conjunto de instruções lógicas e ordenadas passo a passo que um computador deve seguir para resolver um determinado problema ou executar uma tarefa específica.
+• Possui entradas, uma sequência exata de ações e a saída. 
+Na programação, os algoritmos comandam desde a ordenação de uma lista até o cálculo do caminho mais rápido em um GPS.
+
+3. Flashcards
+
+• Definição: São cartões de memorização utilizados como técnica de estudo ativo. Cada cartão possui uma pergunta, termo ou conceito na frente e a respectiva resposta ou explicação no verso.
+• Funcionamento: Baseiam-se em dois princípios da neurociência: o Active Recall (forçar o cérebro a buscar a resposta na memória antes de olhar o verso) 
+e a Spaced Repetition (revisar os cartões em intervalos de tempo calculados para evitar o esquecimento). Plataformas como o Anki e o Quizlet digitalizaram esse método.
+A Inteligência Artificial (IA) funciona nos flashcard atuando na geração de conteúdo e na otimização do estudo, transformando materiais brutos em perguntas e respostas estruturadas.
+
+4. Gamma App
+
+• Definição: É uma plataforma de produtividade alimentada por inteligência artificial focada na criação automatizada de apresentações de slides, documentos de texto e páginas web.
+• Como funciona: O usuário digita uma ideia ou fornece um texto bruto. O algoritmo de I.A. generativa do Gamma App analisa o contexto, cria uma estrutura narrativa (esqueleto) 
+e gera um design visual profissional em segundos, permitindo que o usuário interaja com um assistente virtual para refinar e customizar o resultado final como quiser.
